@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlazorSiginTool": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\wamp64\\www\""
+    }
+  }
+}
